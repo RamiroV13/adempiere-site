@@ -83,6 +83,8 @@ ADempiere allows to keep track of due dates for either collection and/or payable
 ### Reports
 
 It features an extensive reporting system, with daily, weekly and monthly reports and statements produced in real-time.
+![image](https://user-images.githubusercontent.com/89487449/178363556-8b62953e-a45e-43de-ae68-d0c299f69249.png)
+
 
 ### Cash Management
 
