@@ -14,7 +14,7 @@ article: false
 
 ADempiere e.V. (ADeV) is the representative of the free and open ERP system Adempiere. The association is understood to be the active partner of companies and persons which implement and develope ADempiere.
 
-### 1. Name, headquarters and fiscal year
+### 1. Name, headquarters and fiscal year.
 
 - The name of the association is ADempiere e.V.
 - The association has its headquarters in Berlin. If no fixed office has been set up, the administration shall be carried out at the residence of the respective management board member who carries out executive management duties.
