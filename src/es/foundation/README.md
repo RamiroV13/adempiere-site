@@ -9,7 +9,7 @@ tag:
 article: false
 ---
 
-## About the Association
+## About the Association.
 
 ::: tip Who is ADempiere Deutschland e.V.?
 
@@ -21,7 +21,7 @@ The ADempiere association (ADempiere Deutschland e.V.) represents the open-sourc
 
 Our main goal in terms of this association is to help to further distribute the software in germany.
 
-### What we do to fulfill these goals:
+### What we do to fulfil these goals:
 
 - Fostering the relationship and collaboration of users, developers and scientists
 - Development and further studies of free and open ERP software

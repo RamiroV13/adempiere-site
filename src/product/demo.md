@@ -9,7 +9,7 @@ tag:
 article: false
 ---
 
-You can know many adempiere demo of many implementors around of world
+You can know many adempiere demo of many implementers around of world
 
 ::: tip Give it a try! Use this credential after downloading ADempiere and explore this ERP.
 
@@ -17,6 +17,7 @@ You can know many adempiere demo of many implementors around of world
 - **Password:** GardenAdmin
 
 :::
+
 
 Click here for [download.](../downloads)
 
@@ -34,4 +35,7 @@ Last but not least! This is your main menu screen. It'll let you start and explo
 
 
 
+
+=======
+If you want to download it just go to [download.](../downloads)
 

@@ -12,9 +12,6 @@ article: false
 ---
 
 ## Business Processes
-- Product Cost
-- Product Manufacture
-- Product Account
 
 ### Sales Processes
 
@@ -22,7 +19,6 @@ article: false
 - Recording orders
 - Sending the goods or performing the services
 - Invoicing the customer
-![image](https://user-images.githubusercontent.com/89487449/178346738-94e55508-4f6e-4052-9d55-4538278d6d97.png)
 
 ### Purchase Processes
 
@@ -31,8 +27,6 @@ article: false
 - Receiving goods and services
 - Receiving supplier invoices.
 - Paying Suppliers & Collecting Debts
-![image](https://user-images.githubusercontent.com/89487449/178349327-7a1b57bf-16f9-40f7-839d-e9123d5ec26f.png)
-
 
 ### Inventory Processes
 
@@ -41,18 +35,14 @@ article: false
 - Multiple warehouse sites and locators
 - Stock movements
 - Shipping
-![image](https://user-images.githubusercontent.com/89487449/178350265-de5d763a-86e2-4da1-aad3-22c7d8ebb700.png)
 
-
-### Accounting Processes.
+### Accounting Processes
 
 - Period and year end
 - Financial and management accounting
 - Charts of accounts
 - VAT/TAX/IVA
 - Reporting for other regulatory bodies
-![image](https://user-images.githubusercontent.com/89487449/178353973-baaf9d2a-d6b4-42be-b767-d66d515c5f7a.png)
-
 
 ## On-line historical information
 
@@ -63,7 +53,7 @@ article: false
 - Calendars are established for reporting and period access control purposes only.
 - Historical information is maintained for as long as is desired and is able to be reported on using the calendar function.
 
-## Reporting.
+## Reporting
 
 ::: tip
 
