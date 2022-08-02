@@ -36,7 +36,7 @@ article: false
 - Stock movements
 - Shipping
 
-### Accounting Processes
+### Accounting Processes.
 
 - Period and year end
 - Financial and management accounting
