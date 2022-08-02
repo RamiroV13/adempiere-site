@@ -21,7 +21,7 @@ article: false
 - Invoicing the customer
 ![image](https://user-images.githubusercontent.com/89487449/178346738-94e55508-4f6e-4052-9d55-4538278d6d97.png)
 
-### Purchase Processes
+### Purchase Processes.
 
 - Raising a purchase requisition from a catalogue
 - Issuing a purchase order
