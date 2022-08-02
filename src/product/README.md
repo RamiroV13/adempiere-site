@@ -11,7 +11,7 @@ tag:
 article: false
 ---
 
-## Business Processes
+## Business Processes.
 
 ### Sales Processes
 
